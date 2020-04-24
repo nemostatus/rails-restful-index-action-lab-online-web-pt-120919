@@ -1,3 +1,3 @@
 class StudentController < ApplicationController
-  get '/students'
+  get '/students', to 
 end
